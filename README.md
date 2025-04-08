@@ -1,6 +1,5 @@
-# Data-Analysis-Dashboard-Power-BI
-#🚗 Ola Bookings Data Analysis Project Tools Used: Excel | SQL | Power BI Gain insights into ride patterns, booking trends, and customer behavior using business intelligence tools.
-
+# Data-Analysis-Dashboard-Power-BI.
+🚗 Ola Bookings Data Analysis Project Tools Used: Excel | SQL | Power BI Gain insights into ride patterns, booking trends, and customer behavior using business intelligence tools.
 
 ## 📊 Overview
 This project analyzes Ola ride booking data to identify trends, patterns, and user behavior using **Excel**, **SQL**, and **Power BI**. It showcases how business intelligence tools can help transform raw data into meaningful insights.
